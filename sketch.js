@@ -71,5 +71,4 @@ async function getBackgroundImg(){
 
     backgroundImg = loadImage(bg);
 
-    console.log(responseJSON.datetime);
 }
